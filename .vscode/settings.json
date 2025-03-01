@@ -3,5 +3,22 @@
         "1._Two_Sum.C": "cpp",
         "1.Two_Sum.C": "cpp",
         "1-Two_Sum.C": "cpp"
-    }
+    },
+
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.suggest.showKeywords": false,
+
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot": {
+        "enable": false
+    },
+    "vsintellicode.modify.editor.suggestSelection": "disabled"
 }
